@@ -40,3 +40,9 @@ compared using Accuracy, AUC, Precision, Recall, F1 and MCC.
 | kNN | 0.7900 | 0.8166 | 0.6199 | 0.5349 | 0.5743 | 0.4381 |
 | Naive Bayes | 0.6811 | 0.8110 | 0.4457 | 0.8387 | 0.5821 | 0.4087 |
 | Random Forest (Ensemble) | 0.7986 | 0.8400 | 0.6561 | 0.5027 | 0.5693 | 0.4475 |
+
+# Execution instruction
+1. Clone the project
+2. Open models folder
+3. Open train_models.ipynb file in Jupiter notebook
+4. Restart kernel and run all the cells
