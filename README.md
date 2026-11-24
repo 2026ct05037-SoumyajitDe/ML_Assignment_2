@@ -10,7 +10,7 @@ compared using Accuracy, AUC, Precision, Recall, F1 and MCC.
 
 #  Dataset description
 1. Source: IBM Telco Customer Churn dataset
-2. Link: https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+2. Link: https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv (Alternate GitHub mirror link as unable to import the test data from KaggleHub)
 3. Instances: 7,043 (7,021 after removing 22 duplicate rows)
 4. Features: 20 raw (19 after dropping the customerID identifier)
 5. Target variable: Churn (Yes = 1, No = 0)
@@ -46,3 +46,6 @@ compared using Accuracy, AUC, Precision, Recall, F1 and MCC.
 2. Open models folder
 3. Open train_models.ipynb file in Jupiter notebook
 4. Restart kernel and run all the cells
+5. Check the results in the ipynb file only
+6.	Also graph/charts and comparison table will be generated and stored in the /result folder in the same directory
+
